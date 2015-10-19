@@ -2,10 +2,11 @@ package com.cloudaxis.demo;
 
 public class Demo {
 	
-	public void test(){
+	public String test(){
 	//TODO first
 		// second
+		
+		return "success";
 	}
 	
 }
-fd
